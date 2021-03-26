@@ -10,8 +10,8 @@ module.exports = {
         new Discord.MessageEmbed()
          .setTitle('**Socials**')
           .setDescription('Make sure to follow all of these!')
-         .setColor('ff0000')
-         .addField('**Links**', '[Twitter](https://twitter.com/firebxll1)\n[Youtube](https://www.youtube.com/channel/UCXBcVgJEH2pgvUnbNpgc0-A)', false)
+         .setColor('Math.floor(Math.random() * 16777215).toString(16)')
+         .addField('**Links**', '[Twitter](https://twitter.com/)\n[Youtube](https://www.youtube.com/)', false)
       )
   }
 }
