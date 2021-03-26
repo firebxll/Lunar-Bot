@@ -1,0 +1,14 @@
+{
+  "name": "bot-template",
+  "version": "1.0.0",
+  "description": "Template for Discord.js Bots",
+  "main": "index.js",
+  "author": "neyoa",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "yarn": "^1.22.10"
+  }
+}
