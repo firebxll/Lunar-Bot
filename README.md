@@ -1,9 +1,9 @@
-# ney's bot template
-> A badly written discord.js bot skeleton :)
+# Lunar bot template
+> A badly written discord.js bot 
 
 ### Table of Content
 
-- [ney's bot template](#neys-bot-template)
+- [Lunar bot template](#lunar-bot-template)
     - [Table of Content](#table-of-content)
     - [Prerequisites](#prerequisites)
     - [Installation & Setup](#installation--setup)
